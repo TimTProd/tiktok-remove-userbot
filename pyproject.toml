@@ -8,4 +8,5 @@ dependencies = [
     "dotenv>=0.9.9",
     "pyrogram>=2.0.106",
     "tgcrypto>=1.2.5",
+    "yt-dlp>=2025.11.12",
 ]
